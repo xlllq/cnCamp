@@ -1,0 +1,1 @@
+sudo docker run -p 8898:8898 --name="testhttpserver" liuqingxing/testhttpserver ./httpserver
